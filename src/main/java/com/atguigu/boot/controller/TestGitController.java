@@ -8,6 +8,7 @@ public class TestGitController {
     @RequestMapping("/hello")
     public String testGit(){
         System.out.println("代码修改了......");
+        System.out.println("第三个版本.......");
         return "hello,world!!!";
     }
 }
