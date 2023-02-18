@@ -12,6 +12,7 @@ public class TestGitController {
         System.out.println("hot-fix修改了代码!!!");
         System.out.println("master修改了代码！！！");
         System.out.println("hot-fix修改了代码aaa!!!");
+        System.out.println("push test");
         return "hello,world!!!";
     }
 }
