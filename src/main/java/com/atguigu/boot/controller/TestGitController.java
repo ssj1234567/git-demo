@@ -15,6 +15,7 @@ public class TestGitController {
         System.out.println("push test");
         System.out.println("刚刚重新使用了ssh 推送代码");
         System.out.println("重新测试了ssh 向github推送代码！！！");
+        System.out.println("使用git 拉取远程库中的代码来开发");
         return "hello,world!!!";
     }
 }
