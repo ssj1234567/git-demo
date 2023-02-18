@@ -14,6 +14,7 @@ public class TestGitController {
         System.out.println("hot-fix修改了代码aaa!!!");
         System.out.println("push test");
         System.out.println("刚刚重新使用了ssh 推送代码");
+        System.out.println("重新测试了ssh 向github推送代码！！！");
         return "hello,world!!!";
     }
 }
