@@ -9,6 +9,7 @@ public class TestGitController {
     public String testGit(){
         System.out.println("代码修改了......");
         System.out.println("第三个版本.......");
+        System.out.println("hot-fix修改了代码!!!");
         return "hello,world!!!";
     }
 }
