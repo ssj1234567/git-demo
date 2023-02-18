@@ -11,6 +11,7 @@ public class TestGitController {
         System.out.println("第三个版本.......");
         System.out.println("hot-fix修改了代码!!!");
         System.out.println("master修改了代码！！！");
+        System.out.println("hot-fix修改了代码aaa!!!");
         return "hello,world!!!";
     }
 }
